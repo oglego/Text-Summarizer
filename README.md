@@ -43,4 +43,3 @@ python app.py
 
 5. Access the app in your browser at http://127.0.0.1:5000
 
-# NLP
